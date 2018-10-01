@@ -31,7 +31,7 @@ public class AIApp {
       	      
       	      if (answer.equals("No") || answer.equals("no")){
       	    	  System.out.println("\nWhy not!!! Maybe because you don't have imagnation or not Good to pick a name!!??");
-      	      }else if(answer.equals("I don't know") || ) {
+      	      }else if(answer.equals("I don't know") || answer.equals("")) {
       	    	  
       	      }
 
